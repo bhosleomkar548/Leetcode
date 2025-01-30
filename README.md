@@ -1,4 +1,4 @@
-# Leetcode SQL 50
+# Leetcode
 A collection of LeetCode questions to ace the coding interview!
 
 <!---LeetCode Topics Start-->
