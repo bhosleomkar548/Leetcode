@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 
 # Leetcode 75 (Python)
 ## Array/String
+### Easy
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhosleomkar548/Leetcode/tree/main/1146-greatest-common-divisor-of-strings) |
