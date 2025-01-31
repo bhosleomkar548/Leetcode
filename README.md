@@ -13,4 +13,6 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/bhosleomkar548/Leetcode/tree/master/1894-merge-strings-alternately) |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/bhosleomkar548/Leetcode/tree/main/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
