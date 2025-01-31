@@ -18,4 +18,10 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/bhosleomkar548/Leetcode/tree/main/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/bhosleomkar548/Leetcode/tree/master/1894-merge-strings-alternately) |
+
+# Problems (Python)
+### Easy
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/bhosleomkar548/Leetcode/tree/main/0009-palindrome-number) |
 <!---LeetCode Topics End-->
